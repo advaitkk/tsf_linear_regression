@@ -1,2 +1,2 @@
-# tsf_linear_regression
-Soln. of Q1 of DS/ML task for The Sparks Foundation Internship
+# linear_regression
+Predict score of student based on the amount of hours he studies.
